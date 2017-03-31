@@ -55,3 +55,7 @@ because the branches literally are merged into one.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+When Git can see that two branches can be merged automatically, it means that
+there are no merge conflicts between the two branches. The lack of conflicts
+indicates that the two versions have changes that can exist together, so Git
+automatically merging is a nice convenience for the user.
