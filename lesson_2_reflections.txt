@@ -9,10 +9,16 @@ functionality of a version-control system to the project.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The working directory is the place where all your project files are. The repository
+is all the files being tracked by git. The staging area is where you place files
+before committing them to the repository. The value the staging area offers is precision
+control regarding what files you want to commit and a checkpoint so that you don't accidentally
+commit files you didn't want to.
 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
 
 
 
@@ -21,7 +27,9 @@ organized? How would branches help?
 
 
 
+
 How do the diagrams help you visualize the branch structure?
+
 
 
 
