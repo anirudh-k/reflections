@@ -12,3 +12,12 @@ Changes can cause conflicts. If you are developing a new feature, your priority 
 the feature, and then to resolve any conflicts. Manual pulling allows you to keep focus on
 the development of features and then deciding when you want to include the latest version and 
 integrate changes.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of
+another?
+
+Forks are used when you wish to build on someone else's repository but do not have permission to
+change the original. Clones are when you want to work on a GitHub remote repository on your local
+machine. Branches are when you wish to propose changes to an existing repository but do not want
+to declare the changes as working or part of the master "production-level" state.
