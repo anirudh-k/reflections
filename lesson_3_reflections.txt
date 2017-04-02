@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+When your project is collaborative, having a remote allows your other collaboraters to keep
+their work together and synchronized. Also, if you want to share your project online, having
+a remote repository allows others to see what you accomplished.
