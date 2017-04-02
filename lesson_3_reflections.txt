@@ -21,3 +21,9 @@ Forks are used when you wish to build on someone else's repository but do not ha
 change the original. Clones are when you want to work on a GitHub remote repository on your local
 machine. Branches are when you wish to propose changes to an existing repository but do not want
 to declare the changes as working or part of the master "production-level" state.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Knowing where the last known state of the remote was allows you to work offline and know where
+you or your collaborators left off in your project.
