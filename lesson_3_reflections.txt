@@ -35,3 +35,17 @@ would be harder?
 Without Git/GitHub I would collaborating using email or a cloud service to share files
 with collaborators. This has the disadvantage of losing the version control aspect of
 Git. It would also make merging work done by different collaborators difficult.
+
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+Making changes directly in master has the advantage of simplicity. Working directly in one
+branch means you do not have to worry about merge conflicts or other issues. You can
+directly push your code to the branch. The disadvantage of pushing to master is that your
+collaborators do not have a chance to approve or look over changes you propose before
+you commit them to the branch. This is where working in separate branches has advantages.
+If you make a change in a different branch and think it should be part of the main project
+(i.e. in the master branch), you can initiate a pull request and your collaborators can
+look at your changes and see if it makes sense for them to be part of master or not. This
+keeps the collaborative nature of your project intact.
