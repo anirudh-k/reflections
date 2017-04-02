@@ -3,3 +3,12 @@ When would you want to create a remote repository rather than keeping all your w
 When your project is collaborative, having a remote allows your other collaboraters to keep
 their work together and synchronized. Also, if you want to share your project online, having
 a remote repository allows others to see what you accomplished.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay
+up-to-date with your remote repository?
+
+Changes can cause conflicts. If you are developing a new feature, your priority is to finish
+the feature, and then to resolve any conflicts. Manual pulling allows you to keep focus on
+the development of features and then deciding when you want to include the latest version and 
+integrate changes.
