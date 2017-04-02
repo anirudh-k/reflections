@@ -27,3 +27,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Knowing where the last known state of the remote was allows you to work offline and know where
 you or your collaborators left off in your project.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+Without Git/GitHub I would collaborating using email or a cloud service to share files
+with collaborators. This has the disadvantage of losing the version control aspect of
+Git. It would also make merging work done by different collaborators difficult.
